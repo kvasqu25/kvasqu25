@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Karen! 👋
 
-<!--
-**kvasqu25/kvasqu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a student studying Graphic Information Technology at Arizona State University. After graduation, I aspire to get a job as a Web designer. I'm passionate about coding and enjoy designing new web pages, and I'm constantly honing my technical skills in HTML and JS. In my free time, I love to bake desserts! 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Graphic Information Technology at Arizona State University.
+- 💼 Aspiring to become Web designer.
+- 💻 Passionate about HTML and JS
+- 🛠️ Skills: 
+Data analysis.
+Web development.
+Computer programming languages.
+Financial management.
+Graphic Design. 
+- 🌱 Currently learning JS
+
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/karen-vasquezc/)
+- [Behance](https://www.behance.net/karenvasquez12)
+
+## GitHub Stats
+
+![Your kvasqu25's GitHub Stats](https://github-readme-stats.vercel.app/api?kvasqu25=kvasqu25&show_icons=true&theme=radical)
+
