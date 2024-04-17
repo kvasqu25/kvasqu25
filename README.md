@@ -23,5 +23,5 @@ Graphic Design.
 
 ## GitHub Stats
 
-![Your kvasqu25's GitHub Stats](https://github-readme-stats.vercel.app/api?kvasqu25=kvasqu25&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
