@@ -17,16 +17,6 @@ Beyond coding, I enjoy baking desserts and constantly expanding my creative and 
 
 - 🌱 Currently learning advanced JavaScript and expanding my web development skills.
 
-## 🛠 **Skills**
-
-Web Development: HTML, CSS, JavaScript, Git, GitHub
-
-Design & UX: Graphic Design, UI/UX Principles, Adobe Creative Suite
-
-Technical Skills: Data Analysis, Computer Programming
-
-Business & Strategy: Financial Management
-
 ## 🛠 **Tech Stack**  
 
 ### **Development**  
