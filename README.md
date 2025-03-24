@@ -43,7 +43,7 @@ Beyond coding, I enjoy baking desserts and constantly expanding my creative and 
 
 ## 📊 GitHub Stats
 
-![Karen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Karen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karen&show_icons=true&theme=radical)
 
 
 
