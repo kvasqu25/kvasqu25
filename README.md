@@ -27,11 +27,6 @@ Technical Skills: Data Analysis, Computer Programming
 
 Business & Strategy: Financial Management
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,100:8E44AD&height=100&section=footer"/>
-</p>
 ## 🛠 **Tech Stack**  
 
 ### **Development**  
