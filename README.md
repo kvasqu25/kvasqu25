@@ -1,23 +1,46 @@
-# Hi there, I'm Karen! 
+# 👋 Hi there, I'm Karen!
 
-I'm currently a student studying Graphic Information Technology at Arizona State University. After graduation, I aspire to get a job as a Web designer. I'm passionate about coding and enjoy designing new web pages, and I'm constantly honing my technical skills in HTML and JS. In my free time, I love to bake desserts! 
+I'm a Graphic Information Technology student at Arizona State University, passionate about web design and development. I love crafting intuitive and visually engaging web experiences using HTML, CSS, and JavaScript. After graduation, I aspire to become a Web Designer.
 
+Beyond coding, I enjoy baking desserts and constantly expanding my creative and technical skills! 🍪✨
 ## 🟣 About Me
 
 - 🎓 Studying Graphic Information Technology at Arizona State University.
-- 💼 Aspiring to become Web designer.
-- 💻 Passionate about HTML and JS
+
+- 💼 Aspiring Web Designer passionate about front-end development.
+
+- 💻 Skilled in HTML, CSS, JavaScript, and UX/UI design.
+
+- 🌱 Currently learning advanced JavaScript and expanding my web development skills.
+
 - 🛠️ Skills: 
-Data analysis.
-Web development.
-Computer programming languages.
-Financial management.
-Graphic Design. 
-- 🌱 Currently learning JS
+Web Development: HTML, CSS, JavaScript, Git, GitHub
 
-## 🛠️ Tech Stack
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+Design & UX: Graphic Design, UI/UX Principles, Adobe Creative Suite
 
+Technical Skills: Data Analysis, Computer Programming
+
+Business & Strategy: Financial Management
+
+
+## 🛠 **Tech Stack**  
+
+### **Development**  
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)  
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)  
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
+![Git](https://img.icons8.com/color/48/000000/git.png)  
+![GitHub](https://img.icons8.com/fluent/48/000000/github.png)  
+
+### **Design & Prototyping**  
+![Figma](https://img.icons8.com/color/48/000000/figma.png)  
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=Miro&logoColor=000)  
+![Canva](https://img.icons8.com/color/48/000000/canva.png)  
+
+### **Adobe Creative Suite**  
+![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)  
+![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)  
+![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png)  
 
 ## 🟢 Connect with Me
 
@@ -26,5 +49,5 @@ Graphic Design.
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Karen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
