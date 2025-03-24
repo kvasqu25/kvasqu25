@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7E017&center=true&width=600&lines=Hi+there%2C+I'm+Karen!;Aspiring+Web+Designer;Passionate+about+Coding+%26+Design;Always+Learning+%F0%9F%8C%9F" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=github_dark" />
+</p>
 # 👋 Hi there, I'm Karen!
 
 I'm a Graphic Information Technology student at Arizona State University, passionate about web design and development. I love crafting intuitive and visually engaging web experiences using HTML, CSS, and JavaScript. After graduation, I aspire to become a Web Designer.
