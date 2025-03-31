@@ -4,6 +4,8 @@
 
 # 👋 Hi there, I'm Karen!
 
+🚀 **I create impactful website experiences that empower and connect individuals and organizations.**  
+
 I'm a Graphic Information Technology student at Arizona State University, passionate about web design and development. I love crafting intuitive and visually engaging web experiences using HTML, CSS, and JavaScript. After graduation, I aspire to become a Web Designer.
 
 Beyond coding, I enjoy baking desserts and constantly expanding my creative and technical skills! 🍪✨
