@@ -9,6 +9,16 @@
 I'm a Graphic Information Technology student at Arizona State University, passionate about web design and development. I love crafting intuitive and visually engaging web experiences using HTML, CSS, and JavaScript. After graduation, I aspire to become a Web Designer.
 
 Beyond coding, I enjoy baking desserts and constantly expanding my creative and technical skills! 🍪✨
+
+## 📚 Table of Contents
+
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Connect with Me](#-connect-with-me)
+- [GitHub Stats](#-github-stats)
+- [Projects](#-projects)
+
+
 ## 🟣 About Me
 
 - 🎓 Studying Graphic Information Technology at Arizona State University.
@@ -37,6 +47,18 @@ Beyond coding, I enjoy baking desserts and constantly expanding my creative and 
 ## 📊 GitHub Stats
 
 ![Karen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karen&show_icons=true&theme=radical)
+
+## 💼 Projects
+
+🔹 [**Eclipse Hotel & Resort Website**](https://github.com/kvasqu25/Eclipse_Hotel_Resort-Website)  
+A luxury resort website designed to combine elegance with user-friendly functionality, aiming to increase bookings and engage visitors.
+
+🔹 [**Crust & Co. Restaurant Website**](https://github.com/kvasqu25/Crust-And-Co-Website)  
+An interactive and visually compelling redesign for a contemporary restaurant website that enhances user engagement.
+
+🔹 [**Wok Asian Cuisine Website Redesign**](https://github.com/kvasqu25/Crust-And-Co-Website)  
+A modern, mobile-first redesign that enhances user experience and aligns the website with the brand’s identity.
+
 
 
 
